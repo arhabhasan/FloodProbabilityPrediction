@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("tree")
+install.packages("caret")
+install.packages("randomForest")
+install.packages("polycor")
